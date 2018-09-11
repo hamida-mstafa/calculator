@@ -7,7 +7,7 @@ Its a calculator based on a pop up box to calculate.
 Git
 ### Installation instruction
 ```
-Git clonegit https://github.com/hamida-mstafa/calculator.git
+Git clone  https://github.com/hamida-mstafa/calculator.git
 ```
 ## Technologies used
 HTML
@@ -18,4 +18,4 @@ JS
 github.com/hamida-mstafa
 ### License
 The content of this site is license under the MIT license
-Copyright (c) 2018 
+Copyright (c) 2018
